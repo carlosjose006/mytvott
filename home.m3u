@@ -31,7 +31,7 @@ https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8d7103c488b2074130894cdd94cd7223:e23595762d2924120685682ec1180b61
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPNHDPAN)/manifest.mpd
 
-#EXTINF:0 tvg-id="ESPN 2" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN 2
+#EXTINF:0 tvg-id="ESPN.co" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN Colombia
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
