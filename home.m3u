@@ -13,7 +13,7 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
 https://02-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Deportes", DAZN La Liga
+#EXTINF:0 tvg-id="DAZN LALIGA" tvg-logo="" group-title="Deportes", DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
