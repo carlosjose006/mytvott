@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://www.bevy.be/generate/or6syU84h7.xml"
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", AMC Argentina
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
