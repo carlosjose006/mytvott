@@ -10,7 +10,7 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Deportes", Liga 1 Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cuNfKnu5Mf5-R6aKfZV8SQ","k":"WQFfBvFDY0CyyWs-RfY0HQ"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WQFfBvFDY0CyyWs-RfY0HQ","kid":"cuNfKnu5Mf5-R6aKfZV8SQ"}]}
 https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/index.mpd
 
 #EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", beIN Sports Español
