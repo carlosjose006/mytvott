@@ -8,6 +8,13 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
 https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", ATV
+#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://futbolgratisenhd.com/
+https://1016-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Deportes", Liga 1 Max
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://vid.playuct1.com/
