@@ -29,11 +29,19 @@ https://f6hmx3jswd83sq.librarywhispering.com/hls/d7f6b88a2aa4545b-a5c875da2d6155
 #EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", ESPN77
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://choosingnothing.com/
-https://choosingnothing.com/" "https://f6hmx3jswd83sq.librarywhispering.com/hls/38bb65563488d841-b25d74e6c07671acdf0e45f0e80ca076058fc28ea51d8639c81090966f338396/live.m3u8
+https://f6hmx3jswd83sq.librarywhispering.com/hls/38bb65563488d841-b25d74e6c07671acdf0e45f0e80ca076058fc28ea51d8639c81090966f338396/live.m3u8
 
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", Bein Sports ES
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://qqwebplay.xyz/
+#https://dlhd.so/stream/stream-372.php
+https://ddy1.mizhls.ru/ddy1/premium372/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", TYC
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hopehouse.mov/
+#https://telerium.biz/stream/tyc.php
+https://f6hmx3jswd83sq.librarywhispering.com/hls/1cbde9d3b1812188-dc93bebfd4c727a9fe7677f9fb1f5cfeb235811420e7eb6cd571d711676abd7e/live.m3u8
 
 
 #EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", beIN Sports Español
